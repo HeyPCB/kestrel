@@ -1,0 +1,106 @@
+{
+ "batch": 10,
+ "rows": [
+  {
+   "refs": "C1",
+   "value": "10uF",
+   "qty": 1,
+   "lcsc": "C15850",
+   "mpn": "CL21A106KAYNNNE",
+   "class": "basic",
+   "unit_usd": 0.0773,
+   "line_usd": 0.0773,
+   "stock": 3505306,
+   "read_at": "2026-10-05"
+  },
+  {
+   "refs": "C2,C3,C4,C5",
+   "value": "100nF",
+   "qty": 4,
+   "lcsc": "C1525",
+   "mpn": "CL05B104KO5NNNC",
+   "class": "basic",
+   "unit_usd": 0.006,
+   "line_usd": 0.024,
+   "stock": 16407331,
+   "read_at": "2026-10-05"
+  },
+  {
+   "refs": "C6",
+   "value": "1uF",
+   "qty": 1,
+   "lcsc": "C52923",
+   "mpn": "CL05A105KA5NQNC",
+   "class": "basic",
+   "unit_usd": 0.0143,
+   "line_usd": 0.0143,
+   "stock": 4519174,
+   "read_at": "2026-10-05"
+  },
+  {
+   "refs": "C7,C8",
+   "value": "1uF",
+   "qty": 2,
+   "lcsc": "C15849",
+   "mpn": "CL10A105KB8NNNC",
+   "class": "basic",
+   "unit_usd": 0.0297,
+   "line_usd": 0.0594,
+   "stock": 5979916,
+   "read_at": "2026-10-05"
+  },
+  {
+   "refs": "J1",
+   "value": "GPS",
+   "qty": 1,
+   "lcsc": "C160405",
+   "mpn": "SM06B-SRSS-TB(LF)(SN)",
+   "class": "extended",
+   "unit_usd": 0.302,
+   "line_usd": 0.302,
+   "stock": 60961,
+   "read_at": "2026-10-05"
+  },
+  {
+   "refs": "U1",
+   "value": "MAX-M10S",
+   "qty": 1,
+   "lcsc": "C4153167",
+   "mpn": "MAX-M10S-00B",
+   "class": "extended",
+   "unit_usd": 9.4984,
+   "line_usd": 9.4984,
+   "stock": 1656,
+   "read_at": "2026-10-05"
+  },
+  {
+   "refs": "U2",
+   "value": "LIS3MDL",
+   "qty": 1,
+   "lcsc": "C478483",
+   "mpn": "LIS3MDLTR",
+   "class": "extended",
+   "unit_usd": 4.3129,
+   "line_usd": 4.3129,
+   "stock": 14287,
+   "read_at": "2026-10-05"
+  },
+  {
+   "refs": "U3",
+   "value": "XC6206P332MR",
+   "qty": 1,
+   "lcsc": "C5446",
+   "mpn": "XC6206P332MR-G",
+   "class": "basic",
+   "unit_usd": 0.1183,
+   "line_usd": 0.1183,
+   "stock": 503495,
+   "read_at": "2026-10-05"
+  }
+ ],
+ "unpriced": [],
+ "parts_usd": 14.407,
+ "extended_parts": 3,
+ "extended_fee_per_board_usd": 0.9,
+ "total_usd": 15.307
+}
